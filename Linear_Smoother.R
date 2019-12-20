@@ -77,9 +77,7 @@ legend("bottomright",  # Alternatively, x and y coordinates can be specified exp
        lwd = 3)
 
 
-
-
-
+### Solar Radiation Analysis
 
 
 load("R_datasets\\solar.radiation.rda")
